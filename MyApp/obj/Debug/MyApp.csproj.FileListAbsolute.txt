@@ -1,0 +1,13 @@
+C:\Users\test\OneDrive\Bureau\Nelly_kristelle_guepnang\MyApp\MyApp\bin\Debug\MyApp.exe.config
+C:\Users\test\OneDrive\Bureau\Nelly_kristelle_guepnang\MyApp\MyApp\bin\Debug\MyApp.exe
+C:\Users\test\OneDrive\Bureau\Nelly_kristelle_guepnang\MyApp\MyApp\bin\Debug\MyApp.pdb
+C:\Users\test\OneDrive\Bureau\Nelly_kristelle_guepnang\MyApp\MyApp\obj\Debug\MyApp.csproj.AssemblyReference.cache
+C:\Users\test\OneDrive\Bureau\Nelly_kristelle_guepnang\MyApp\MyApp\obj\Debug\MyApp.ImageCommentee.resources
+C:\Users\test\OneDrive\Bureau\Nelly_kristelle_guepnang\MyApp\MyApp\obj\Debug\MyApp.Properties.Resources.resources
+C:\Users\test\OneDrive\Bureau\Nelly_kristelle_guepnang\MyApp\MyApp\obj\Debug\MyApp.csproj.GenerateResource.cache
+C:\Users\test\OneDrive\Bureau\Nelly_kristelle_guepnang\MyApp\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\test\OneDrive\Bureau\Nelly_kristelle_guepnang\MyApp\MyApp\obj\Debug\MyApp.exe
+C:\Users\test\OneDrive\Bureau\Nelly_kristelle_guepnang\MyApp\MyApp\obj\Debug\MyApp.pdb
+C:\Users\test\OneDrive\Bureau\Nelly_kristelle_guepnang\MyApp\MyApp\obj\Debug\MyApp.ExamUserControl.resources
+C:\Users\test\OneDrive\Bureau\Nelly_kristelle_guepnang\MyApp\MyApp\obj\Debug\MyApp.ListImg.resources
+C:\Users\test\OneDrive\Bureau\Nelly_kristelle_guepnang\MyApp\MyApp\obj\Debug\MyApp.ViewImage.resources
